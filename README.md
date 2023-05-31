@@ -6,6 +6,7 @@ Convertible Function:
   3. YOLO to Labelme
 
 사용법:
-  Run code
-  
-  끝.
+  1. Run code
+  2. Select Folder
+  3. Start Format
+  4. Done
